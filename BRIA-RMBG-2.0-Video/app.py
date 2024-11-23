@@ -148,4 +148,4 @@ demo = gr.TabbedInterface(
 )
 
 if __name__ == "__main__":
-    demo.launch(share=True, show_error=True)
+    demo.launch(share=False, show_error=True)
