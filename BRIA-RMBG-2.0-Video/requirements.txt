@@ -16,4 +16,5 @@ gradio_imageslider
 loadimg>=0.1.1
 httpx[socks]
 huggingface_hub==0.25.0
-moviepy
+moviepy==1.0.3
+onnxruntime-gpu==1.18.0
